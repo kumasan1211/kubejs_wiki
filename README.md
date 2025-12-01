@@ -1,1 +1,1 @@
-https://kumasan1211.github.io/kubejs_wiki/kubejs_home.html
+https://kumasan1211.github.io/kubejs_wiki/start_home/home.html
